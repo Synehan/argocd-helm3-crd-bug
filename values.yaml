@@ -1,0 +1,3 @@
+# Default values for argocd-helm3-crd-bug.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
